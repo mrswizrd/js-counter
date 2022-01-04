@@ -1,0 +1,29 @@
+h1 {
+  text-align: center;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 35px;
+}
+
+#value {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 30vh;
+}
+
+.btn {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 30px;
+  border-radius: 10px;
+  border-color: black;
+}
+
+span {
+  align-items: center;
+}
+
+.decrease {
+  background-color: rgb(62, 168, 218);
+}
+
+.increase {
+  background-color: rgb(216, 44, 102);
+}
